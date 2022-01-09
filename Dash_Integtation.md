@@ -59,10 +59,10 @@ Improve performance and provide simple web management to store
 
 ## QA Tasks
 - [ ] Verify the blockbook server and exchange service
-- [ ] Start a store and check dash wallet on desktop, send and receive coins
-- [ ] Create a listing, and direct buy on another desktop&mobile app
-- [ ] Create a listing, and offline buy on another desktop&mobile app
-- [ ] Create a listing, and moderated buy on another desktop&mobile app
+- [ ] Start a store and check dash wallet on desktop & mobile, send and receive coins
+- [ ] Create a listing, and direct buy on another desktop & mobile app
+- [ ] Create a listing, and offline buy on another desktop & mobile app
+- [ ] Create a listing, and moderated buy on another desktop & mobile app
 - [ ] Disputation case happens and resolution
 - [ ] Search testing
 
