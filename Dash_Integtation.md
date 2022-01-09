@@ -1,34 +1,34 @@
 
 ## Specification Tasks
 
-1. Work out the integration plan 1 dash
+- [ ] Work out the integration plan *1 dash*
 
 
 ## Production Tasks
 
 #### Part 1:
-1. MainNet and TestNet Trezor blockbook server 15 dash
-2. Exchange rate service set up for Dash (API payment and service integration to bitcoinaverage.com, coinmarketcap.com and binance.com etc., show on the home page) 3 dash
-3. Dash document and blockbook related API research 2.5 dash
-4. Create built-in wallet for Dash with OB identity, and support send and receive in the wallet 25
-5. Buy a goods with direct pay 10
-6. Sell a goods with direct pay 10
-7. UT 6
-8. Multi sign script generation and multi sign 15
-9. Offline trade 6
-10. Moderation trade 10
-11. Dispute handling 15
-12. UT 9
-13. Integrate Dash support in the desktop app (Available on Win, Mac, and Linux), mobile app, and search engine and testing 15
-14. Search engine optimization for dash users 5
-15. Community testing on testnet and issue fix 15
-16. Make online to Mainnet and support 15
+- [ ] MainNet and TestNet Trezor blockbook server *15 dash*
+- [ ] Exchange rate service set up for Dash (API payment and service integration to bitcoinaverage.com, coinmarketcap.com and binance.com etc., show on the home page) *3 dash*
+- [ ] Dash document and blockbook related API research *2.5 dash*
+- [ ] Create built-in wallet for Dash with OB identity, and support send and receive in the wallet *25 dash*
+- [ ] Buy a goods with direct pay *10 dash*
+- [ ] Sell a goods with direct pay *10 dash*
+- [ ] UT *6 dash*
+- [ ] Multi sign script generation and multi sign *15 dash*
+- [ ] Offline trade *6 dash*
+- [ ] Moderation trade *10 dash*
+- [ ] Dispute handling *15 dash*
+- [ ] UT *9 dash*
+- [ ] Integrate Dash support in the desktop app (Available on Win, Mac, and Linux), mobile app, and search engine and testing *15 dash*
+- [ ] Search engine optimization for dash users *5 dash*
+- [ ] Community testing on testnet and issue fix *15 dash*
+- [ ] Make online to Mainnet and support *15 dash*
 
 #### Part 2:
 
 Dash Web Access to VPC online store support
 
-1. Work flow prototype and UI draft 40
+- [ ] Work flow prototype and UI draft *40 dash*
    - Registration
    - Store pages
      - General: language, country etc
@@ -46,26 +46,28 @@ Dash Web Access to VPC online store support
    - Trade flow: direct pay, offline pay, and moderation pay, disputation handling
    - Search page
 
-2. UI consolidation 27 dash
+- [ ] UI consolidation *27 dash*
 
-3. Front end dev 60 dash
+- [ ] Front end dev *60 dash*
 
 #### Part 3:
 Improve performance and provide simple web management to store
-1. Fix dash-specific issues 10
-2. Improve performance and integrated in future version 20
+- [ ] Fix dash-specific issues *10 dash*
+- [ ] Improve performance and integrated in future version *20 dash*
+
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Total Amount above**: 334.5 dash
 
 ## QA Tasks
-- Verify the blockbook server and exchange service: 0.25
-- Start a store and check dash wallet on desktop, send and receive coins
-- Create a listing, and direct buy on another desktop&mobile app
-- Create a listing, and offline buy on another desktop&mobile app
-- Create a listing, and moderated buy on another desktop&mobile app
-- Disputation case happens and resolution
-- Search testing
+- [ ] Verify the blockbook server and exchange service
+- [ ] Start a store and check dash wallet on desktop, send and receive coins
+- [ ] Create a listing, and direct buy on another desktop&mobile app
+- [ ] Create a listing, and offline buy on another desktop&mobile app
+- [ ] Create a listing, and moderated buy on another desktop&mobile app
+- [ ] Disputation case happens and resolution
+- [ ] Search testing
 
-- Web store testing (would breakdown after UI design finishes)
+- [ ] Web store testing (*would breakdown after UI design finishes*)
 
-## Result
+## Conclusion
 
 **Dash Partnership and Promotion**
