@@ -51,7 +51,7 @@ Dash Web Access to VPC online store support
 - [ ] Front end dev *60 dash*
 
 #### Part 3:
-Improve performance and provide simple web management to store
+Improve performance and support
 - [ ] Fix dash-specific issues *10 dash*
 - [ ] Improve performance and integrated in future version *20 dash*
 
