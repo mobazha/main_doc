@@ -27,17 +27,17 @@ With Dash you can buy anything at anytime.
 
 **Supporting Links**
 
-OpenBazaar: https://www.youtube.com/watch?v=ck6e5dKZ3h4
-Mobazha: https://mobazha.org , https://mobazha.info
-Reddit: https://www.reddit.com/r/OpenBazaar/ , https://www.reddit.com/r/Mobazha/
+OpenBazaar: https://www.youtube.com/watch?v=ck6e5dKZ3h4  
+Mobazha: https://mobazha.org , https://mobazha.info  
+Reddit: https://www.reddit.com/r/OpenBazaar/ , https://www.reddit.com/r/Mobazha/  
 Telegram: https://t.me/+TichBR0O3W5hM2M1
 
-Videos:
-Chat and wallet: https://app.vidcast.io/share/c9815bfc-3ba7-411d-afe4-2ffb04bbb9e3
-Trade: https://app.vidcast.io/share/3865f679-c5cb-4f2b-9ad6-b2b3963a4fc3
-Moderation: https://app.vidcast.io/share/a0c42456-636a-4344-ae40-410c35f581f3
-Moderator introduction: https://app.vidcast.io/share/8f1111fe-6518-4ce5-9a60-ee31237e2983
-Migration: https://app.vidcast.io/share/ef34d4bb-b460-46d5-9f9b-52640680ca43
+Videos:  
+Chat and wallet: https://app.vidcast.io/share/c9815bfc-3ba7-411d-afe4-2ffb04bbb9e3  
+Trade: https://app.vidcast.io/share/3865f679-c5cb-4f2b-9ad6-b2b3963a4fc3  
+Moderation: https://app.vidcast.io/share/a0c42456-636a-4344-ae40-410c35f581f3  
+Moderator introduction: https://app.vidcast.io/share/ 8f1111fe-6518-4ce5-9a60-ee31237e2983  
+Migration: https://app.vidcast.io/share/ef34d4bb-b460-46d5-9f9b-52640680ca43  
 
 https://www.dash.org/forum/threads/pre-proposal-support-dash-in-purely-decentralized-market.52561/
 

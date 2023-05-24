@@ -32,10 +32,11 @@ Part 4: Future maintenance and support funds 100 dash
 
 
 **QA Tasks**
-Verify the blockbook server and exchange service
-Start a store and check dash wallet on desktop&mobile, send and receive coins
-Create a listing, and direct buy on another desktop&mobile app
-Create a listing, and offline buy on another desktop&mobile app
-Create a listing, and moderated buy on another desktop&mobile app
-Disputation case happens and resolution
-Search testing
+
+Verify the blockbook server and exchange service  
+Start a store and check dash wallet on desktop&mobile, send and receive coins  
+Create a listing, and direct buy on another desktop&mobile app  
+Create a listing, and offline buy on another desktop&mobile app  
+Create a listing, and moderated buy on another desktop&mobile app  
+Disputation case happens and resolution  
+Search testing  
