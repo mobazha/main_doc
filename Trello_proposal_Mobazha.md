@@ -1,12 +1,12 @@
 
 
-**Title**
+### **Title**  
 Support Dash in Purely Decentralized Market Mobazha
 
-**Value Proposition**
+### **Value Proposition**  
 Provide Dash user ability to sell and buy any physical and digital goods/services in decentralized market, secure and privacy, with dash payment integrated.
 
-**Functional Requirements**
+### **Functional Requirements**  
 We believe decentralized market in Web3 is a very important part in the future. After OpenBazaar was shutdown in Jan 2021, we have rebuilt the whole infrastructure in new version 3.0, with full functionality. Furthermore, it is more fast and stable. It is now branded as Mobazha.
 
 We have already supported BTC, BCH and LTC in the network. We are looking for potential coins support in the market. Dash is an important currency in privacy and has rich experience in retail.
@@ -25,7 +25,7 @@ The features would be:
 
 With Dash you can buy anything at anytime.
 
-**Supporting Links**
+### **Supporting Links**
 
 OpenBazaar: https://www.youtube.com/watch?v=ck6e5dKZ3h4  
 Mobazha: https://mobazha.org , https://mobazha.info  
